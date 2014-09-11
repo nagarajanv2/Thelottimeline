@@ -125,9 +125,9 @@
     .mis-slider {
         /*  Slider element does not need to be a specific height
             Here we use it to create a stylish bar behind slides */
-        margin-top: 138px;
-        height: 80px;
-        background-color: #eee;
+        margin-top: 175px;
+        height: 5px;
+        background-color: #acd3f2;
     }
         .mis-slider li a {
             text-decoration: none;
@@ -156,7 +156,7 @@
             height: 360px;
 	        padding: 40px;
             /*  Undo the margin added by slider element */
-            margin-top: -138px
+            margin-top: -175px
         }
     .mis-nav-buttons a {
         color: #fff; 
