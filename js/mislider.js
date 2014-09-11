@@ -62,7 +62,7 @@ var miSlider = function( stageEl, options ) {
 		// Center slide contents vertically - Boolean.
 		centerV: false,
 		// Enable numbered list navigation - Boolean.
-		navList: true,
+		navList: false,
 		// Enable prev and next button navigation - Boolean.
 		navButtons: true,
 		// Always show prev and next button navigation except when transitioning - Boolean.
