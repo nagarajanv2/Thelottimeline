@@ -30,6 +30,14 @@ pre {
     background-color: #fff;
     padding: 1em;
 }
+.fig{
+    background-color: #acd3f2;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}
 @media screen and (min-width: 1200px) {
     .main {
         width: 50%;

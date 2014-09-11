@@ -137,12 +137,12 @@
         .mis-slider li figcaption {
             font-size: 1.5em;
         }
-        .mis-slider li img {
+        .mis-slider li .fig {
             /*  Make max-width of image a little less than width of slide
                 to avoid some browser shinking bugs */
-            max-width: 270px;
+            /*max-width: 270px;*/
             /*  for really small screens make width 100% */
-            width: 100%;
+           /* width: 100%;*/
             /*  Make image round */
             border-radius: 135px;
             border: none;
