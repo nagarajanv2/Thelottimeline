@@ -38,6 +38,16 @@ pre {
     -webkit-margin-start: 40px;
     -webkit-margin-end: 40px;
 }
+   .mis-slider li a {
+            text-decoration: none;
+            color: #666;
+            display: block;
+            background-color: #acd3f2;
+            height: 284px;
+            width: 100%;
+            border-radius: 171px;
+
+        }  
 @media screen and (min-width: 1200px) {
     .main {
         width: 50%;
