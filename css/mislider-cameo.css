@@ -144,8 +144,8 @@
             /*  for really small screens make width 100% */
            /* width: 100%;*/
             /*  Make image round */
-            border-radius: 135px;
-            border: none;
+           /* border-radius: 135px;
+            border: none;*/
         }
         .mis-slide {
             /*  Set width in pixels to restrict width of slides 
